@@ -3,6 +3,10 @@
 * 🐣 [@mikegoatly](https://twitter.com/mikegoatly) (though I'm not very active on there)
 * 🐘 [@mikegoatly@toot.community](https://toot.community/@mikegoatly)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=mikegoatly&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+It's always nice when you can write your own reviews, so I'll blow my own trumpet a bit: 🎺
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikegoatly&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+* 🧑‍💻 I've been working with .NET since the early beta days, and I've built lots and lots of things using it over the years, web applications and APIs, desktop apps, Windows Phone/Store apps and games.
+* 🕸️ I'm pretty proficient using TypeScript and React.
+* ☁️ I've also got a lot of experience building, monitoring and maintaining software in Azure.
+
+If you're looking for a nice little in-memory Full Text Indexer for .NET, take a look at [LIFTI](https://github.com/mikegoatly/lifti)!
