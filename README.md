@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike Goatly 👋
 
-* ☁️ [@goatly.net](https://bsky.app/profile/goatly.net)
+* 🦋 [@goatly.net](https://bsky.app/profile/goatly.net)
 * 🐘 [@mikegoatly@toot.community](https://toot.community/@mikegoatly)
 
 It's always nice when you can write your own reviews, so I'll blow my own trumpet a bit: 🎺
